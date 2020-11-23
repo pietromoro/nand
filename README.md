@@ -8,4 +8,4 @@ This project aims at creating a simple simulation environment to experiment with
 
 ## Usage
 
-It all starts with two simple components: a AND gate and a NOT gate. From there you will be able to work your way designing logic circutis as your heart desires.
+It all starts with two simple components: an AND gate and a NOT gate. From there you will be able to work your way designing logic circutis as your heart desires.
